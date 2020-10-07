@@ -1,0 +1,575 @@
+
+
+
+@media(max-width: 1399px){
+nav .container .logo a img{	
+	  margin-left: -30px;
+}
+.banner-section h1 {
+    font-size: 32px;
+}
+.banner-section h3 {
+    padding: 8px 20px;
+    font-size: 15px;
+}
+.banner-section p {
+    top: 87%;
+    font-size: 14px;
+}
+.trips-section h3 {
+    font-size: 14px;
+    left: 3%;
+    margin-left: 6px;
+    padding: 7px 26px;
+}
+.trips-section h2 {
+    font-size: 24px;
+}
+.trips-section p {
+    font-size: 15px;
+}
+.proin-section .content p {
+    font-size: 17px;
+    margin-bottom: 0;
+    top: 55%;
+}
+.proin-section .content h1 {
+    font-size: 35px;
+    margin-bottom: 0;
+    top: 43%;
+}
+.proin-section h3 {
+    font-size: 15px;
+    bottom: 10%;
+    left: 3%;
+    margin-left: 6px;
+    padding: 8px 26px;
+}
+.proin-section .work {
+    top: 83%;
+    margin-bottom: 0;
+    right: 10%;
+    font-size: 14px;
+}
+.nature-section h3 {
+    font-size: 20px;
+}
+.nature-section p {
+    color: #E9E9E9;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.tech-section h2 {
+    font-size: 24px;
+}
+.tech-section h3 {
+    font-size: 15px;
+    left: 3%;
+    margin-left: 6px;
+    padding: 7px 25px;
+}
+.tech-section p {
+    font-size: 14px;
+}
+.newsletter-section h1 {
+    font-size: 45px;
+}
+.newsletter-section p {
+    font-size: 20px;
+}
+.newsletter-section .newsletter input {
+    padding: 12px 0;
+    width: 550px;
+}
+.newsletter-section .submit button {
+    bottom: 28%;
+    right: 27%;
+    padding: 10px 33px;
+    font-size: 16px;
+}
+footer p {
+    font-size: 19px;
+}
+}
+@media(max-width: 1199px){
+nav .container .logo a img {
+    margin-left: -16px;
+}
+nav .nav-item a.nav-link {
+    font-size: 12px;
+    padding: 10px 5px;
+}
+nav .container .dropdown .search {
+    font-size: 18px;
+    padding: 8px 6px;
+}
+nav .navbar-collapse .navbar-nav .nav-item {
+    padding: 10px 6px;
+}
+nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+}
+nav .container .dropdown-menu input {
+    width: 190px;
+}
+.banner-section h1 {
+    font-size: 21px;
+    top: 50%;
+}
+.banner-section .banner-img img{
+	width: 80px;
+}
+.banner-section .banner-img {
+    top: 50%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    margin-top: 47px;
+    width: 20px;
+}
+.banner-section h3 {
+    padding: 6px 17px;
+    font-size: 15px;
+    left: 24%;
+}
+.banner-section p {
+    top: 86%;
+    font-size: 12px;
+}
+.trips-section h3 {
+    left: 2%;
+    margin-left: 8px;
+}
+.trips-section h2 {
+    font-size: 20px;
+}
+.trips-section p {
+    font-size: 13px;
+}
+.proin-section h3 {
+    left: 2%;
+    margin-left: 8px;
+}
+.proin-section .content h1 {
+    top: 43%;
+    left: 53%;
+}
+.proin-section .content p {
+    font-size: 16px;
+    left: 53%;
+}
+.proin-section .work {
+    font-size: 12px;
+}
+.nature-section h3 {
+    font-size: 18px;
+}
+.nature-section p {
+    font-size: 12px;
+}
+.tech-section {
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+.tech-section h3 {
+    font-size: 12px;
+    left: 2%;
+    margin-left: 8px;
+    bottom: 45%;
+}
+.tech-section h2 {
+    font-size: 20px;
+}
+.tech-section p {
+    font-size: 12px;
+}
+.newsletter-section p {
+    font-size: 17px;
+}
+.newsletter-section .newsletter input {
+    padding: 9px 0;
+    width: 460px;
+}
+.newsletter-section .submit button {
+    bottom: 29%;
+    right: 27%;
+    padding: 10px 35px;
+    font-size: 12px;
+}
+footer p {
+    font-size: 17px;
+}
+footer {
+    margin-top: 55px;
+    margin-bottom: 80px;
+}
+}
+@media(max-width: 991px){
+nav .container .logo a img {
+    margin-left: -24px;
+}
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+}
+.banner-section h1 {
+    font-size: 18px;
+    top: 53%;
+}
+.banner-section h3 {
+    padding: 4px 12px;
+    font-size: 10px;
+    left: 20%;
+}
+.trips-section {
+    margin-top: 20px;
+}
+.trips-section h3 {
+    left: 4%;
+    margin-left: 5px;
+    font-size: 10px;
+    padding: 6px 17px;
+    bottom: 42%;
+}
+.trips-section h2 {
+    font-size: 15px;
+}
+.trips-section p {
+    font-size: 11px;
+}
+.proin-section .content h1 {
+    top: 39%;
+    left: 53%;
+    font-size: 26px;
+}
+.proin-section .content p {
+    font-size: 12px;
+}
+.proin-section h3 {
+    left: 4%;
+    margin-left: 5px;
+    padding: 6px 16px;
+    font-size: 10px;
+    bottom: 13%;
+}
+.proin-section .work {
+    font-size: 10px;
+    top: 80%;
+}
+.nature-section {
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+.nature-section h3 {
+    font-size: 16px;
+}
+.nature-section p {
+    font-size: 11px;
+    margin-top: -5px;
+}
+.tech-section h2 {
+    font-size: 18px;
+}
+.tech-section p {
+    font-size: 11px;
+    margin-bottom: -10px;
+}
+.tech-section h3 {
+    left: 4%;
+    margin-left: 5px;
+}
+.newsletter-section {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.newsletter-section h1 {
+    font-size: 40px;
+}
+.newsletter-section p {
+    font-size: 14px;
+}
+.newsletter-section .newsletter input {
+    padding: 6px 0;
+    width: 390px;
+}
+.newsletter-section .submit button {
+    bottom: 29%;
+    right: 25%;
+    padding: 8px 35px;
+    font-size: 11px;
+}
+footer p {
+    font-size: 14px;
+}
+footer {
+    margin-top: 35px;
+    margin-bottom: 50px;
+}	
+}
+@media(max-width: 767px){
+nav .container .logo a img {
+    margin-left: -18px;
+    width: 200px;
+}
+.banner-section h1 {
+    font-size: 15px;
+}
+.banner-section p {
+    font-size: 10px;
+}
+.trips-section h3 {
+    margin-left: 7px;
+}
+.trips-section h2 {
+    font-size: 10px;
+}
+.trips-section p {
+    font-size: 10px;
+}
+.proin-section .content h1 {
+    font-size: 20px;
+}
+.proin-section .content p {
+    font-size: 9px;
+}
+.proin-section h3 {
+    margin-left: 7px;
+}
+.proin-section .work {
+    font-size: 9px;
+    top: 78%;
+}
+.nature-section h3 {
+    font-size: 13px;
+}
+.nature-section p {
+    font-size: 10px;
+}
+.tech-section img {
+    margin-top: -15px;
+}
+.tech-section h3 {
+    margin-left: 7px;
+    font-size: 8px;
+    padding: 5px 16px;
+    bottom: 50%;
+}
+.tech-section h2 {
+    font-size: 12px;
+}
+.tech-section p {
+    font-size: 9px;
+}
+.newsletter-section {
+    padding-top: 30px;
+    padding-bottom: 56px;
+}
+.newsletter-section h1 {
+    font-size: 30px;
+}
+.newsletter-section p {
+    font-size: 10px;
+}
+.newsletter-section .newsletter input {
+    width: 292px;
+}
+.newsletter-section .submit button {
+    padding: 8px 25px;
+}
+footer p {
+    font-size: 11px;
+}	
+}
+@media(max-width: 575px){
+nav .container .logo a img {
+    margin-left: 1px;
+    width: 177px;
+}
+nav .container .dropdown .search {
+    display: none;
+}
+nav .container .logo a img {
+    display: none;
+}
+.banner-section .banner-img img {
+    display: none;
+}
+.navbar-nav {
+    flex-direction: column;
+    text-align: center;
+}
+nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    font-size: 14px;
+    padding: 0px 0;
+}
+.navbar-toggler {
+    padding: 1px 2px !important;
+}
+.navbar-toggler-icon {
+    width: 25px;
+    height: 23px;
+}
+.banner-section h1 {
+    font-size: 8px;
+    top: 45%;
+}
+.banner-section p {
+    font-size: 7px;
+}
+.banner-section h3 {
+    padding: 3px 10px;
+    font-size: 6px;
+    left: 20%;
+    top: 82%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    margin-top: 7px;
+    width: 10px;
+}
+.trips-section h2 {
+    font-size: 9px;
+}
+.trips-section p {
+    font-size: 8px;
+    margin-top: -5px;
+}
+.trips-section h3 {
+    margin-left: -1px;
+    bottom: 15%;
+    padding: 4px 12px;
+    font-size: 8px;
+    left: 4%;
+}
+.proin-section .content h1 {
+    font-size: 11px;
+    top: 47%;
+   /* display: none;*/
+}
+.proin-section .content p {
+    font-size: 9px;
+    display: none;
+}
+.proin-section h3 {
+    margin-left: -1px;
+    bottom: 18%;
+    padding: 4px 12px;
+    font-size: 8px;
+    left: 4%;
+}
+.proin-section .work {
+    font-size: 6px;
+    top: 70%;
+}
+.nature-section h3 {
+    font-size: 11px;
+}
+.tech-section h3 {
+/*    margin-left: 7px;
+    font-size: 8px;
+    padding: 5px 16px;
+    bottom: 9%;*/
+    display: none;
+}
+.tech-section h2 {
+    font-size: 10px;
+    margin-bottom: 0;
+}
+.tech-section p {
+    font-size: 9px;
+    margin-bottom: 22px;
+    margin-top: 5px;
+}
+.tech-section {
+    padding-bottom: 0px;
+}
+.newsletter-section .newsletter input {
+    width: 216px;
+}
+.newsletter-section .submit button {
+    bottom: 29%;
+    right: 17%;
+    padding: 8px 20px;
+    font-size: 11px;
+}
+footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer p {
+    font-size: 8px;
+}	
+}
+@media(max-width: 320px){
+nav .nav-item a.nav-link {
+    font-size: 12px;
+    padding: 4px 0px;
+}
+.banner-section h1 {
+    font-size: 5px;
+}
+.banner-section h3 {
+    display: none;
+}
+.banner-section p {
+    font-size: 4px;
+}
+.trips-section h2 {
+    font-size: 8px;
+}
+.trips-section p {
+    font-size: 6px;
+    margin-top: -5px;
+}
+.trips-section h3 {
+/*    margin-left: -1px;
+    bottom: 15%;
+    padding: 4px 12px;
+    font-size: 8px;
+    left: 4%;*/
+    display: none;
+}
+.proin-section h3 {
+    display: none;
+}
+.proin-section .content h1 {
+    font-size: 7px;
+    /* display: none; */
+}
+.proin-section .work {
+    font-size: 5px;
+}
+.nature-section h3 {
+    font-size: 9px;
+}
+.nature-section p {
+    font-size: 8px;
+}
+.tech-section h2 {
+    font-size: 9px;
+}
+.tech-section p {
+    font-size: 7px;
+}
+.newsletter-section {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.newsletter-section h1 {
+    font-size: 20px;
+    padding-bottom: 2px;
+}
+.newsletter-section .newsletter input {
+    width: 140px;
+    min-height: 0 !important;
+}
+.newsletter-section .submit button {
+    bottom: 17%;
+    right: 16%;
+    padding: 8px 14px;
+    font-size: 10px;
+}
+footer p {
+    font-size: 5px;
+    margin-bottom: 0;
+}	
+}
